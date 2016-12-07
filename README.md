@@ -1,5 +1,5 @@
 # RecyclerView2
-Nama Project : AdvancedWidget1
+Nama Project : RecyclerView2
 
 ## ScreenShot
 ![screenshot_2016-12-07-20-24-34-275](https://cloud.githubusercontent.com/assets/22869870/20970414/11f6c702-bcc0-11e6-9cee-39fdcd49524c.png)
